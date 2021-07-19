@@ -12,11 +12,14 @@ I also picked up the 5 commodities I want to work on - which are 'Coffee, Green'
 
 - [5_commodities_visualization](https://github.com/gabrielatrindade/commodities_analysis/blob/master/5_commodities_visualization.ipynb): 
 Getting information from 5 commodities, using visualization. Some graphs are plotted here for the following questions: \
-              1. Largest producers / consumers per commodity \
-              2. Balance between production and consumption in respective origin countries \
-              3. Percentage of consumption of commodity for the largest producers \
-              4. Stock level balance throughout the years \
-              5. Top 7 Exporters per Commodity in a year
+              1. Largest producers / consumers per commodity ✔️ \
+              2. Balance between production and consumption in respective origin countries ✔️ \
+              3. Percentage of consumption of commodity for the largest producers ✔️ \
+              4. Stock level balance throughout the years ✔️ \
+              5. Top 7 Exporters per Commodity in a year ✔️ \
+              6. Top 7 Importers per Commodity in a year \
+              7. How is the distribution of the production of different coffees? (Arabica, Robusta, Other) \
+              8. Who are the biggest producers of each coffee type? 
 
    I used Pandas, numpy, seaborn, and matplotlib libraries.
 
