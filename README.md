@@ -1,6 +1,6 @@
 # Commodities Analysis
 
-Exploring Commodities dataset gotten from United States Department of Agriculture (USDA) API.
+Exploring Commodities dataset gotten from [United States Department of Agriculture (USDA)](https://apps.fas.usda.gov/psdonline/app/index.html#/app/downloads).
 
 ## 🗄 Files
 
@@ -13,7 +13,7 @@ I also picked up the 5 commodities I want to work on - which are 'Coffee, Green'
 - [5_commodities_visualization](https://github.com/gabrielatrindade/commodities_analysis/blob/master/5_commodities_visualization.ipynb): 
 Getting information from 5 commodities, using visualization. Some graphs are plotted here for the following questions:
 
-I used pandas, numpy, seaborn, and matplotlib libraries.
+I used Pandas, numpy, seaborn, and matplotlib libraries.
 
  ## 🗂 Folder
 
